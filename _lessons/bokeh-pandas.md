@@ -1,3 +1,4 @@
+---
 layout: page
 title: Visualizing Data with Bokeh and Pandas
 description: My First Programming Historian lesson, visualizing Bokeh and Pandas. 

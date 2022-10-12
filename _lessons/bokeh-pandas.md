@@ -48,6 +48,7 @@ print(df)
 #get column list
 df.columns.tolist()
 
+
 ```
 ## Connecting Bokeh and Pandas
 ```python

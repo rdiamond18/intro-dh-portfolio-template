@@ -1,4 +1,10 @@
-## Python Crash Course - CH6
+---
+layout: page
+title: Exercises Ch. 6
+description: Chapter 6 from PythonCrashCourse. 
+---
+
+# Python Crash Course - CH6
 
 exercises - 6-1, 6-2, 6-3, 6-4, 6-5, 6-7, 6-8, 6-9, 6-11
 

@@ -5,7 +5,7 @@ description: Here I evaluate Google Ngrams.
 ---
 ## Source
 
-[Google Ngrams viewer. Link: ](https://books.google.com/ngrams/)
+[Google Ngrams viewer](https://books.google.com/ngrams/)
 
 ## Evaluation 
 
@@ -17,3 +17,4 @@ The biggest limitation, in my opinion, of Google Ngrams is that you can’t sear
 Overall, I really liked looking at Google Ngrams and because of its broad applicability, I will almost certainly continue to use it when I’m curious about linguistic trends or for my final project.
 
 ![Ngrams plot I generated relating the popularity of the NBA, NFL, MLB and NHL](./_evaluations/ngrams.png)
+

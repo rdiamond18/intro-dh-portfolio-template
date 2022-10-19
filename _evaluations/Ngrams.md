@@ -16,4 +16,4 @@ Another strength of the project is its speed and simplicity. The visualizations 
 The biggest limitation, in my opinion, of Google Ngrams is that you can’t search for a phrase longer than five words. Say you wanted to search for “Four Score and Seven Years Ago”, maybe curious about Lincoln’s famous Gettysburg Address, Ngrams wouldn’t be able to handle it. While it can handle shorter common phrases such as “constitutional amendment”, which may help visualize when people were talking about amending the constitution, longer phrases aren’t possible to search.
 Overall, I really liked looking at Google Ngrams and because of its broad applicability, I will almost certainly continue to use it when I’m curious about linguistic trends or for my final project.
 
-![Ngrams plot I generated relating the popularity of the NBA, NFL, MLB and NHL](_evaluations/ngrams.png)
+![Ngrams plot I generated relating the popularity of the NBA, NFL, MLB and NHL](/Users/richarddiamond/Desktop/CLS161/intro-dh-portfolio-template/_evaluations/ngrams.png)

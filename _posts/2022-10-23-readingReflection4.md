@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Reading Reflection 4"
+date:   2022-09-27 18:21:49 -0400
+categories: 
+---
+
+ I thoroughly enjoyed reading “The Measured Words: How Computers Analyze Text” for my most recent reading. In my opinion, the most interesting part came towards the end of the reading. When discussing how we can use the various methods computers use to read text, the author argued that computers  “can help us try to formalize claims and to test them”. When I read this, my gears started turning. What prior assumptions have we made about literature that can be possibly confirmed or disproven?
+The first example that came to mind was the Federalist Papers dispute. The Federalist Papers were all officially published under pseudonyms, leading to disagreement among the public regarding the authorship of the papers. This disagreement was heightened when Alexander Hamilton and James Madison released lists detailing the authorship of the papers, with their lists not exactly matching up. Modern textual analysis was used to test the claims of each author, and there now exists some scholarly consensus on the authorship of all the Federalist Papers, whether they were disputed or not in the 1800s.
+Another talking point that came to mind involved books and pacing of texts. I have often heard people say a book is “a little slow”. If you ask readers, they would probably have a similar definition of what “slow” means, but they may disagree on whether a certain text is slow . I wonder, however, if we can mathematically quantify if a novel is slow or not. The author mentioned that we use computers to formalize and test assumptions, and described novels as either “slow” or even “action packed”. I’m sure that computers are further away from this kind of analysis than I think: this analysis would require computers to understand what action is and how to quantify it. However, computers are becoming better at reading human emotion, which is somewhat scary and somewhat fascinating. 
+We had a spontaneous discussion about AI image generating software, and how computers can now take a sentence as an input and turn it into an image, reading the sentence not just for its words, but how they connect and the emotion behind a sentence. If a computer can do that, I have no doubt at some point computers will be able to diagnose the emotion that a certain text carries.

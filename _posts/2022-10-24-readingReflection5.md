@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Reading Reflection 5"
+date:   2022-09-27 18:21:49 -0400
+categories: 
+---
+
+This week’s reading was an introduction to Named Entity Recognition. The two main topics covered in the piece were Natural Language Processing and Named Entity Recognition. 
+Natural Language processing is the act of taking words from a “natural language”, such as a spoken language or a written one, and using a programming language to extract data from it. I find this concept super interesting, as while language is so complex, finding ways to treat it as a science and learn about it interests me. One part of the piece I found interesting was the mention of “sentiment analysis”. Sentiment analysis is the act of trying to understand the emotion of a text. This idea is both super interesting and scary to me. Trying to use numbers and math to define emotion is such an interesting application of computing, and I would be very interested to see if we could dissect various texts by their emotions. For example, I would love to see if we could quantify how different news outlets evoke emotion in response to various happenings in politics and otherwise. We may be able to uncover some level of bias in some news sites if we can determine that they respond with more emotion in some cases than others.
+On the other hand, sentiment analysis is scary. If computers can one day read emotion, the prevalence of machine learning will allow computers to continuously improve in sentiment analysis, and maybe one day become better than humans at reading emotion. If computers will become better than us at reading emotion, I wonder if we will one day see computers performing important emotional tasks, maybe even something like therapy, if they can become better than humans.
+Named Entity Recognition is the process by which a computer takes textual data and gives it some sort of structure or context. When I read the definition of Named Entity Recognition, I started to think about its applications. One thing I thought about was tracking which names are mentioned in an article about a sports team, for instance. Named Entity Recognition can pull the names of all the people mentioned in an article, and finding a relationship between the number of times a player is mentioned vs. how impactful they are on the stat sheet may be a final project idea for me.

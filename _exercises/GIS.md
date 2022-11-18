@@ -7,4 +7,4 @@ This map is a map of the place names listed in Chapter 10 of Edward Gibbon's "De
 
 Below is a link to the map - 
 
-https://tuftsgis.maps.arcgis.com/apps/instant/basic/index.html?webmap=abc934e54eea40de9412e8cd9c583a34
+https://tuftsgis.maps.arcgis.com/apps/instant/basic/index.html?webmap=abc934e54eea40de9412e8cd9c583a34 

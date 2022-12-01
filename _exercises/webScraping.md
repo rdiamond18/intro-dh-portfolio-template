@@ -9,7 +9,7 @@ import pandas as pd
 import wget
 import os
 import re 
-import requests
+import requests 
 ```
 
 

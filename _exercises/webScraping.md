@@ -1,3 +1,9 @@
+---
+layout: page
+title: Web Scraping
+description: My web scraping homework.
+---
+
 ## Web Scraping HW
 
 In this homework, I will be downloading and working with Pride and Prejudice by Jane Austen. This current version doesn't completely work unfortunately and there's some inconsistency with the chapter sectioning that I haven't figured out, I think it has to do with some oddities of pride and prejudice and how its structured. This notebook is my 'first attempt' at web scraping.

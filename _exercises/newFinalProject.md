@@ -1,3 +1,9 @@
+---
+layout: page
+title: Final Project
+description: This is my CLS161 Final Project
+---
+
 ## NLCS Analysis
 
 

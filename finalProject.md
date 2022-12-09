@@ -3,6 +3,9 @@ layout: page
 title: Final Project
 permalink: /final-project/
 ---
+## Write up
+
+In this project, my goal was to analyze a set of Baseball games and see if there was any relationship between the amount of time they were mentioned in ESPNs postgame write-ups and how effective they were in the series. For this analysis, I chose the 2022 NLCS, which was a series that took place this October. I chose this series because it was the mosty impactful series in this past MLB season that ESPN featured a write up for. In order to get my data, I scraped the article text from ESPN, and then extracted player names from the text. To analyze how effective players were in the series, I used a stat called Championship Win Probability, or CWPA. This stat estimates the percentage chance increase a player gave his team of winning the world series throughout a given span of time. I found this stat to be useful here because it not only factors in performance, but also context: a player hitting a home run in a pivotal position should be something written about in a write up, where a home run at the beginning of the game when the stakes are lower may not be. This data was collected from Baseball Reference.
 
 ## NLCS Analysis
 
@@ -254,9 +257,11 @@ plt.show()
 
 
     
-![png](output_11_1.png)
+![png](cwpaChart.png)
     
 
 
-Certainly not the most linear trend. It seems as though there are plenty of other factors: what position a player plays, whether he is on the winning team and whether he is a popular figure in baseball that determine how much a player is mentioned.
+This trend is ertainly not the most linear. It seems as though there are plenty of other factors: what position a player plays, whether he is on the winning team and whether he is a popular figure in baseball that determine how much a player is mentioned.
 It is interesting, however, that Bryce Harper had by far the highest CWPA and by far the highest number of mentions. It seems as though extraordinary performance will lead to extraordinary mentions.
+
+In conclusion, with this smaller dataset, I was unable to find a connection between the amount of times a player is mentioned and his CWPA. This is not to say such a relationship doesn't exist: it may be more clear with a larger dataset. I look forward to expanding this project with more data and trying to see if there is an actual relationship between these factors.

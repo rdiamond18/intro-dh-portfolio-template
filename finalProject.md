@@ -257,7 +257,7 @@ plt.show()
 
 
     
-![png](cwpaChart.png)
+![png](../assets/cwpaChart.png)
     
 
 

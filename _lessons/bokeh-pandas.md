@@ -287,7 +287,7 @@ df['E'], df['N'] = zip(
 #group data frame to get desired field
 grouped = df.groupby(['E', 'N'])[['TONS_IC', 'TONS_FRAG']].sum().reset_index()
 
-filter = grouped['TONS_FRAG'] != 0
+filter = grouped['TONS_FRAG'] != 0 
 grouped = grouped[filter]
 
 source = ColumnDataSource(grouped)

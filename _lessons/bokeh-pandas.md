@@ -35,6 +35,7 @@ p.triangle(x,y, size = 10, color = 'red', legend_label = 'triangle')
 p.legend.click_policy='hide'
 #showing the graphs in a new window
 show(p)
+![png](../assets/ph1.png)
 
 ## Importing and working with Pandas -
 
@@ -85,6 +86,7 @@ hover.tooltips=[
 plot.add_tools(hover)
 #print plot
 show(plot)
+![png](../assets/ph2.png)
 
 
 ```
@@ -131,6 +133,7 @@ hover.mode = 'vline'
 p.add_tools(hover)
 
 show(p)
+![png](../assets/ph3.png)
 
 ```
 ## Using Stacked Bar Charts w/ Sub Sampling
@@ -168,6 +171,7 @@ p.xgrid.grid_line_color = None
 p.yaxis.axis_label = 'Kilotons of Munitions'
 
 show(p)
+![png](../assets/ph4.png)
 ```
 ## Time Series Graphs
 ```python
@@ -195,6 +199,7 @@ p.line(x='MSNDATE', y='TONS_IC', line_width=2, source=source, color=Spectral3[2]
 p.yaxis.axis_label = 'Kilotons of Munitions Dropped'
 
 show(p)
+![png](../assets/ph5.png)
 
 ```
 ## Modifying Time Series
@@ -214,6 +219,7 @@ p.line(x='MSNDATE', y='TONS_IC', line_width=2, source=source, color=Spectral3[2]
 p.yaxis.axis_label = 'Kilotons of Munitions Dropped'
 
 show(p)
+![png](../assets/ph6.png)
 
 ```
 ## Annotating Trends
@@ -247,6 +253,7 @@ p.title.text = 'European Theater of Operations'
 p.yaxis.axis_label = 'Kilotons of Munitions Dropped'
 
 show(p)
+![png](../assets/ph7.png)
 
 ```
 ## Spatial Data
